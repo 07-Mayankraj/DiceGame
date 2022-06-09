@@ -1,0 +1,63 @@
+body{
+  background-image: url(/images/wallpaper.jpg);
+  background-size:cover;
+}
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+
+h1 {
+  margin: 30px;
+  font-weight: 100;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #ebcf1f;
+}
+
+p {
+  font-size: 2rem;
+  padding-top: 20%;
+  color: #ebcf1f;
+  
+}
+
+img {
+  padding-top: 10%;
+  width: 50%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+
+.btn {
+  -webkit-border-radius: 26;
+  -moz-border-radius: 26;
+  border-radius: 26px;
+  font-family: Courier New;
+  
+  color: #000000;
+  font-size: 27px;
+  background: #ffffff;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #dcebf5;
+  text-decoration: none;
+}
